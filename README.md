@@ -18,6 +18,7 @@ This project analyses customer orders and sales data for a small retail business
 - `schema.sql` — creates the database tables
 - `data.sql` — inserts sample data
 - `analysis.sql` — all analysis queries with comments
+- `advanced_analysis.sql` — advanced queries using CTEs, window functions and customer segmentation
 
 ## Key Findings
 - Hampers category generated the highest revenue across all months
